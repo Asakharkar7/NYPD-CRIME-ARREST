@@ -1,0 +1,2 @@
+# NYPD-CRIME-ARREST
+This is a breakdown of every arrest made in New York City by the NYPD this year. Every quarter, this data is manually extracted and reviewed by the Office of Management Analysis and Planning. Each record represents an arrest made by the NYPD in NYC and contains information about the type of crime, the location, and the time of enforcement. Additionally, information about suspect demographics is included
